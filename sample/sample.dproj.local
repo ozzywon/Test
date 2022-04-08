@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.552,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.860,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.462,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.021,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.945,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.549,C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\GITHUB\TEST\sample\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.203,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.596,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.982,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.182,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.285,C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\GITHUB\TEST\sample\sample.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.549,C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\GITHUB\TEST\sample\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.423,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.834,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.970,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.074,=C:\Users\ak259\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="192.168.1.4:5555"/>
+	</ActiveMobileDevice>
+</BorlandProject>
