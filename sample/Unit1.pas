@@ -32,7 +32,7 @@ end;
 
 procedure TForm1.Button2Click(Sender: TObject);
 begin
-     Close; //test ing
+     Close; //test ing...
 end;
 
 end.
